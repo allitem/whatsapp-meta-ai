@@ -1,1 +1,7 @@
-
+owner:
+  - create
+  - deploy
+  - connect_api
+  - git
+public:
+  - chat
