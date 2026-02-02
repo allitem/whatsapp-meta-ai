@@ -1,1 +1,10 @@
+---
 
+### **3. config.json (ตัวอย่าง)**
+
+```json
+{
+  "whatsapp_api_url": "https://graph.facebook.com/v17.0/your_phone_number_id/messages",
+  "access_token": "YOUR_META_WHATSAPP_ACCESS_TOKEN",
+  "default_reply": "ข้อความตอบกลับอัตโนมัติ"
+}
